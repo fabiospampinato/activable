@@ -1,6 +1,6 @@
 {
   "name": "activable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A base class that implements active-related functionalities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,7 +35,10 @@
     "type": "git",
     "url": "https://github.com/fabiospampinato/activable.git"
   },
-  "keywords": [],
+  "keywords": [
+    "activate",
+    "deactivate"
+  ],
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.18.2",
