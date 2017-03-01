@@ -18,11 +18,13 @@ import Activable from 'activable';
 
 class Engine extends Activable {}
 
-Engine.isActive (); // false
-Engine.activate ();
-Engine.isActive (); // true
-Engine.deactivate ();
-Engine.isActive (); // false
+const engine = new Engine ();
+
+engine.isActive (); // false
+engine.activate ();
+engine.isActive (); // true
+engine.deactivate ();
+engine.isActive (); // false
 ```
 
 ## API
