@@ -1,8 +1,5 @@
 # Activable
 
-![Issues](https://img.shields.io/github/issues/fabiospampinato/activable.svg)
-[![NPM version](https://img.shields.io/npm/v/activable.svg)](https://www.npmjs.com/package/activable)
-
 A base class that implements active-related functionalities.
 
 ## Install
