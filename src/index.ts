@@ -47,4 +47,4 @@ class Activable {
 
 /* EXPORT */
 
-export default Activable;
+export = Object.assign ( Activable, { default: Activable } );
