@@ -1,6 +1,6 @@
 {
   "name": "activable",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A base class that implements active-related functionalities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
